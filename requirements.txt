@@ -1,0 +1,13 @@
+Flask==1.0
+numpy
+pandas
+faiss-cpu
+sentence-transformers
+accelerate>=0.26.0
+groq
+hugchat
+langdetect 
+deep-translator
+torch
+gtts
+SpeechRecognition
