@@ -1,0 +1,20 @@
+.voice-button {
+    background-color: #4f90ff;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    padding: 10px 20px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+  }
+  
+  .voice-button:hover {
+    background-color: #3b73d3;
+  }
+  
+  .voice-button:disabled {
+    background-color: #a0a0a0;
+    cursor: not-allowed;
+  }
+  
