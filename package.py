@@ -2,6 +2,7 @@ import numpy as np
 import pandas as pd
 import faiss
 import torch
+import json
 from groq import Groq
 import os
 import ast
